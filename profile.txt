@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Portfolio</title>
+	<link rel="stylesheet" type="text/css" href="style2.css">
+</head>
+<body>
+	<header>
+		<h1>My Portfolio</h1>
+	</header>
+
+	<nav>
+		<ul>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">About</a></li>
+			<li><a href="#">Projects</a></li>
+			<li><a href="#">Contact</a></li>
+		</ul>
+	</nav>
+
+	<main>
+		<section>
+			<h2>About Me</h2>
+			
+			<font style="font-size: larger;"> Hi I am ,<br> <font style="font-size:xx-large;"> <font style="color: dimgrey;"> <font style="font-size: xx-large;"> Purab Patel</font> </font> </font> <br><FONT style="font-size: large;"> I am a developer,and i love travelling and try to seek and explore something new,and i am also good in sports and ather curricular activities. </FONT><br> <br><h1 > <font style="width: 100px;">Breif details</font></h1>
+			<p> # I am a web developer with a passion for coding and creating beautiful websites.  <br> <br> # As i have completed multiple projects with my full devotion and effeicency .  <br> <br> # I  have learn multiple laungauges such as html ,css ,java ,c, etc . <br> <br> #  I am also part of multiple high level projects . <br> <br> # I am very focused and dedicated person toward my work and profession.  </p>
+		</section>
+ 
+		
+		<section>
+			<h2>Projects</h2>
+			<ul>
+				<li><a href="mypage.html">project 1</a></li>
+				<li><a href="my work.html">Project 2</a></li>
+				<li><a href="#">Project 3</a></li>
+			</ul>
+		</section>
+
+		<section>
+			<h3> Contact</h3>
+			<p>Feel free to contact me  <br> <h3>Email id</h3><p>bca22.purab.patel@sunstone.edu.in</p>
+            <h3>Contact no.</h3><p>7727103456</p>
+		</section>
+	</main>
+
+	<footer>
+		<p>&copy; 2023 My Portfolio</p>
+	</footer>
+</body>
+</html>
